@@ -1,5 +1,6 @@
 ---
 pages:
+- test.md
 - cbt4cbt-prescription.md
 hide_body: false
 fields:
