@@ -16,4 +16,4 @@ Is a program that will introduce you to Cognitive Behavioural Therapy on your ow
 * Learning to think and behave in ways that give you  control of your behaviors.
 * Teaching you effective coping strategies for dealing with different problems throughout life.
 
-\[Insert form for study contact here\]
+\[Insert permission form for study contact here\]
