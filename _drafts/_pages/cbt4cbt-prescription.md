@@ -8,7 +8,7 @@ layout: text
 
 ![](/assets/images/Medical Questions.jpg)
 
-![Mild to Moderate and 18+](/assets/images/Program Notes.jpg "Mild to Moderate and 18+")
+![](/assets/images/Program Notes.jpg)
 
 ### CBT4CBT (Computer Based Training for Cognitive Behavioural Therapy)
 
