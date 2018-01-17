@@ -1,7 +1,6 @@
 ---
 pages:
 - cbt4cbt-prescription.md
-- test.md
 hide_body: false
 fields:
 - name: sub-title
