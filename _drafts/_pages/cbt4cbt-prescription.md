@@ -4,11 +4,11 @@ title: CBT4CBT Prescription
 date: 2018-01-17 10:12:32 +0000
 layout: text
 ---
-### ![](/assets/images/Medical Emergency.jpg)
+![](/assets/images/Medical Emergency.jpg)
 
-### ![](/assets/images/Medical Questions.jpg)
+![](/assets/images/Medical Questions.jpg)
 
-### ![Mild to Moderate and 18+](/assets/images/Program Notes.jpg "Mild to Moderate and 18+")
+![Mild to Moderate and 18+](/assets/images/Program Notes.jpg "Mild to Moderate and 18+")
 
 ### CBT4CBT (Computer Based Training for Cognitive Behavioural Therapy)
 
