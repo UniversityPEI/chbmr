@@ -32,7 +32,7 @@ exclude:
 - package.json
 - vendor
 show_drafts: false
-baseurl: ''
+baseurl: '/'
 markdown: redcarpet
 port: 4000
 url: "https://chcresearch.ca"
