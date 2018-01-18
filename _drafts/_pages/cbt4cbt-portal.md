@@ -12,6 +12,4 @@ date: 2018-01-18 14:29:11 +0000
 
 ### If you have any questions about this program please text Lukas at 902-394-6939
 
-To access the program and videos click here
-
-[tablet.cbt4cbt.com](tablet.cbt4cbt.com "CBT4CBT Program and Videos")
+[![Click to access program and videos](/assets/images/program button.jpg "Click to access program and videos")](tablet.cbt4cbt.com "CBT4CBT Program Link")
