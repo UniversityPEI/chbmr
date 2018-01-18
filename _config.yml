@@ -33,6 +33,7 @@ exclude:
 - vendor
 show_drafts: false
 baseurl: '/'
+# for local development, baseurl needs to be an empty string ''
 markdown: redcarpet
 port: 4000
 url: "https://chcresearch.ca"
