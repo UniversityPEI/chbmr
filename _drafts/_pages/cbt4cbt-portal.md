@@ -10,6 +10,8 @@ date: 2018-01-18 14:29:11 +0000
 
 # Welcome to the UPEI CBT4CBT Program Portal
 
-### If you have any questions about this program please text Lukas at 902-394-6939
+### Questions about this program?
 
-[![Click to access program and videos](/assets/images/program button.jpg "Click to access program and videos")](https://app.cbt4cbt.com/#/ "CBT4CBT Program Link")
+### Text Lukas at 902-394-6939
+
+[![Program and Video Button](/assets/images/program button.jpg "Program and Video Button")](https://app.cbt4cbt.com/#/ "Program and Video Button")
