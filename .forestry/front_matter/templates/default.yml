@@ -1,7 +1,7 @@
 ---
 pages:
-- cbt4cbt-prescription.md
 - cbt4cbt-portal.md
+- cbt4cbt-prescription.md
 hide_body: false
 fields:
 - name: sub-title

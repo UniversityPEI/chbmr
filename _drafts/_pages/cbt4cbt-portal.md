@@ -12,6 +12,6 @@ date: 2018-01-18 14:29:11 +0000
 
 ### Questions about this program?
 
-### Text Lukas at 902-394-6939
+### [http://chcresearch.ca/admin/#/pages/cbt4cbt-prescription-md/](http://chcresearch.ca/admin/#/pages/cbt4cbt-prescription-md/ "http://chcresearch.ca/admin/#/pages/cbt4cbt-prescription-md/")
 
 [![Program and Video Button](/assets/images/program button.jpg "Program and Video Button")](https://app.cbt4cbt.com/#/ "Program and Video Button")
