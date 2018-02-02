@@ -18,7 +18,7 @@ Is a program that will introduce you to Cognitive Behavioural Therapy on your ow
 * learning to think and behave in ways that give you  control of your behaviours
 * teaching you effective coping strategies for dealing with different problems throughout life
 
-![](/assets/images/Contact Pharmacy.jpg)
+![For access visit Murphy's Pharmacist](/assets/images/Contact Pharmacy.jpg "For Access")
 
 ### Have questions or comments about the program?
 
