@@ -22,4 +22,4 @@ Is a program that will introduce you to Cognitive Behavioural Therapy on your ow
 
 ### Have questions about the program?
 
-Email [chcr@upei.ca]()
+Email: <a href="mailto:chcr@upei.ca">chcr@upei.ca</a> 
