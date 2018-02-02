@@ -20,6 +20,6 @@ Is a program that will introduce you to Cognitive Behavioural Therapy on your ow
 
 ![](/assets/images/Contact Pharmacy.jpg)
 
-### Have Questions about the program?
+### Have questions about the program?
 
 Email [chcr@upei.ca]()
