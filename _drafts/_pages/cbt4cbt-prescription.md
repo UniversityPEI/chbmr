@@ -10,8 +10,6 @@ layout: text
 
 Is a program that will introduce you to Cognitive Behavioural Therapy on your own terms. The program is available anytime and anywhere you use a computer, laptop, tablet, or smartphone with internet access.
 
-![](/assets/images/Contact Pharmacy.jpg)
-
 ### CBT can help develop skills such as:
 
 * recognizing distorted thinking that can lead to making choices not in your best interests
@@ -20,4 +18,8 @@ Is a program that will introduce you to Cognitive Behavioural Therapy on your ow
 * learning to think and behave in ways that give you  control of your behaviours
 * teaching you effective coping strategies for dealing with different problems throughout life
 
-<iframe>src="https://docs.google.com/forms/d/e/1FAIpQLSd7jfeDjOWBG700xaapYKLdyBIbYDq9FowaE9LkTBczRoZzbw/viewform?embedded=true" width="760" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+![](/assets/images/Contact Pharmacy.jpg)
+
+### Have Questions about the program?
+
+Email [chcr@upei.ca]()
