@@ -10,6 +10,6 @@ date: 2018-01-18 14:29:11 +0000
 
 # Welcome to the UPEI CBT4CBT Program Portal
 
-### [Click Here](http://chcresearch.ca/admin/#/pages/cbt4cbt-prescription-md/ "CBT4CBT General Info Page") for general information about this program?
+### [Click Here](http://chcresearch.ca/admin/#/pages/cbt4cbt-prescription-md/ "CBT4CBT General Info Page") for general information about this program.
 
 [![](/assets/images/program button-1.jpg)](https://tablet.cbt4cbt.com "CBT4CBT Login Page")
