@@ -4,7 +4,7 @@ title: CBT4CBT Prescription
 date: 2018-01-17 10:12:32 +0000
 layout: text
 ---
-![Medical Emergency Call 911](/assets/images/Emergency Questions Notes all in 1-1.jpg "Medical Emergency Call 911")
+![](/assets/images/Emergency Questions Notes all in 1.jpg)
 
 ### CBT4CBT (Computer Based Training for Cognitive Behavioural Therapy)
 
@@ -22,4 +22,4 @@ Is a program that will introduce you to Cognitive Behavioural Therapy on your ow
 
 ### Have questions or comments about the program?
 
-Email: <a href="mailto:chcr@upei.ca">chcr@upei.ca</a> 
+Email: <a href="mailto:chcr@upei.ca">chcr@upei.ca</a>
