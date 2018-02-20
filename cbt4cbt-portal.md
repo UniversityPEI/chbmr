@@ -12,4 +12,4 @@ date: 2018-01-18 14:29:11 +0000
 
 ### [Click Here](http://chcresearch.ca/admin/#/pages/cbt4cbt-prescription-md/ "CBT4CBT General Info Page") for general information about this program?
 
-[![](/assets/images/program button-1.jpg)](www.tablet.cbt4cbt.com "CBT4CBT Login Page")
+[![](/assets/images/program button-1.jpg)](https://app.cbt4cbt.com/#/ "CBT4CBT Login Page")
