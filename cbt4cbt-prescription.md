@@ -6,11 +6,11 @@ layout: text
 ---
 ![](/assets/images/Emergency Questions Notes all in 1.jpg)
 
-### CBT4CBT (Computer Based Training for Cognitive Behavioural Therapy)
+## CBT4CBT (Computer Based Training for Cognitive Behavioural Therapy)
 
 Is a program that will introduce you to Cognitive Behavioural Therapy on your own terms. The program is available anytime and anywhere you use a computer, laptop, tablet, or smartphone with internet access.
 
-### CBT can help develop skills such as:
+## CBT can help develop skills such as:
 
 * recognizing distorted thinking that can lead to making choices not in your best interests
 * modifying your negative thought patterns
