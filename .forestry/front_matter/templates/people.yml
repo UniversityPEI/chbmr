@@ -11,6 +11,7 @@ pages:
 - _people/2016-05-13-dr-robert-gilmour.html
 - _people/mary-ann-macswain.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   type: text
