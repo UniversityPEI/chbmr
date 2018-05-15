@@ -1,0 +1,30 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Sub title
+  name: sub_title
+- type: text
+  name: layout
+  label: Layout
+- type: field_group
+  name: button
+  label: Button
+  fields:
+  - type: text
+    name: link
+    label: Link
+  - type: text
+    label: Title
+    name: title
+  - type: file
+    label: Image
+    name: image
+- type: textarea
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+  name: terms
+  label: Terms
