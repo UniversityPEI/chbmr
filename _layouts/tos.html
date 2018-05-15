@@ -4,10 +4,10 @@ layout: default
 {{ content }}
 <div class="tos">
     <div class="terms">
-        {{ page.terms }}
+        {{ page.terms | markdownify }}
     </div>
     <span class="checkbox">
-        <input id="tos-checkbox" name="tos-checkbox" type="checkbox" /> <label for="tos-checkbox">I accept the terms of service</label>
+        <input id="tos-checkbox" name="tos-checkbox" type="checkbox" /> <label for="tos-checkbox">I agree</label>
     </span>
 </div>
 <div>
@@ -18,7 +18,7 @@ layout: default
 <script>
 function checkTOS() {
     if(!document.getElementById('tos-checkbox').checked) {
-        alert("You must accept the terms of service to continue");
+        alert("You must agree to the consent form to continue");
         return false;
     }
 }
