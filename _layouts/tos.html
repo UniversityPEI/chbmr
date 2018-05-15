@@ -1,0 +1,25 @@
+---
+layout: default
+---
+{{ content }}
+<div class="tos">
+    <div class="terms">
+        {{ page.terms }}
+    </div>
+    <span class="checkbox">
+        <input id="tos-checkbox" name="tos-checkbox" type="checkbox" /> <label for="tos-checkbox">I accept the terms of service</label>
+    </span>
+</div>
+<div>
+    <a onClick="return checkTOS();" href="{{ page.button.link }}" title="{{ page.button.title }}">
+        <img src="{{ page.button.image }}" alt="{{ page.button.title }}" />
+    </a>
+</div>
+<script>
+function checkTOS() {
+    if(!document.getElementById('tos-checkbox').checked) {
+        alert("You must accept the terms of service to continue");
+        return false;
+    }
+}
+</script>
