@@ -12,7 +12,7 @@ layout: default
 </div>
 <div>
     <a onClick="return checkTOS();" href="{{ page.button.link }}" title="{{ page.button.title }}">
-        <img src="{{ page.button.image | prepend: site.baseurl }}" alt="{{ page.button.title }}" />
+        <img src="{{ page.button.image | prepend: '/' }}" alt="{{ page.button.title }}" />
     </a>
 </div>
 <script>
