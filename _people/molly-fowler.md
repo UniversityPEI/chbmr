@@ -1,8 +1,9 @@
 ---
 layout: person
-sub-title: ''
+sub-title: Administrative Assistant
 thumbnail: ''
-tags: []
+tags:
+- staff
 email: ''
 linkedin: ''
 title: Molly Fowler
