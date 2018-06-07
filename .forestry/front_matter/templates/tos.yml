@@ -1,6 +1,4 @@
 ---
-pages:
-- cbt4cbt-portal.md
 hide_body: false
 is_partial: false
 fields:
@@ -30,3 +28,5 @@ fields:
       format: markdown
   name: terms
   label: Terms
+pages:
+- cbt4cbt-portal.md

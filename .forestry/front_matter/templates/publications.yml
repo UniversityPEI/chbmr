@@ -1,6 +1,4 @@
 ---
-pages:
-- _publications/examining-the-drivers-of-high-cost-healthcare-usage-in-prince-edward-island.md
 hide_body: false
 is_partial: false
 fields:
@@ -35,3 +33,5 @@ fields:
   type: text
   hidden: false
   description: If the publication is on other site, paste link here
+pages:
+- _publications/examining-the-drivers-of-high-cost-healthcare-usage-in-prince-edward-island.md

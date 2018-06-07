@@ -1,6 +1,4 @@
 ---
-pages:
-- cbt4cbt-prescription.md
 hide_body: false
 is_partial: false
 fields:
@@ -13,3 +11,5 @@ fields:
   name: layout
   label: Layout
   default: text
+pages:
+- cbt4cbt-prescription.md
