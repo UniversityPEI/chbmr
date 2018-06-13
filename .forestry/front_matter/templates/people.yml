@@ -48,6 +48,7 @@ fields:
   hidden: false
   config: {}
 pages:
+- _people/hailey-arsenault.md
 - _people/molly-fowler.md
 - _people/data-information-specialist.md
 - _people/2016-05-17-dr-nadeem-dada.html
