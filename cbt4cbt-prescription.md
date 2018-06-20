@@ -1,5 +1,5 @@
 ---
-sub-title: ''
+sub-title: Now available for PEI residents
 title: CBT4CBT Prescription
 date: 2018-01-17 10:12:32 +0000
 layout: text
