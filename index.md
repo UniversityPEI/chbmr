@@ -15,4 +15,4 @@ partners:
 - logo: "/images/iwk-logo.png"
 - logo: "/images/dal-logo.png"
 ---
-<p>The Centre for Health and Community Research is a collaborative research group based with the School of Business at the University of Prince Edward Island that specializes in supporting the Canadian health and biotechnology sectors.</p>
+The Centre for Health and Community Research is a collaborative research group based with the School of Business at the University of Prince Edward Island that specializes in supporting the Canadian health and biotechnology sectors.
