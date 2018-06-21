@@ -2,12 +2,9 @@
 title: Contact Us
 layout: post
 ---
-Centre for Health and Community Research
-
-University of Prince Edward Island 
-
-550 University Avenue, MCDH 208 
-
+Centre for Health and Community Research  
+University of Prince Edward Island  
+550 University Avenue, MCDH 208  
 Charlottetown, PE  C1A 4P3
 
 chcr@upei.ca
