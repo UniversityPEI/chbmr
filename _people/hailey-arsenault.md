@@ -6,8 +6,7 @@ tags: []
 email: ''
 linkedin: ''
 title: Hailey Arsenault
-date: 2018-06-13 13:39:11 -0300
-published: false
+date: 2018-06-13 16:39:11 +0000
 ---
 Hailey Arsenault joined the CHCR in March 2018 as a Researcher (Graduate Student).  Currently, Hailey is working on several projects for the Center: most notably, she has played a large role in our SARV (qualitative) project. 
 
