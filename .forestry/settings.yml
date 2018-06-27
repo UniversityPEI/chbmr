@@ -20,6 +20,7 @@ collections:
     - people
   _publications:
     label: Publications
+    hidden: true
   '':
     label: Other Pages
     templates:
