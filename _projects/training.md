@@ -8,7 +8,6 @@ sub-title: ''
 tags: []
 slug: ''
 layout: text
-published: false
 ---
 # Training
 
