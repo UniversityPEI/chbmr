@@ -28,7 +28,7 @@ fields:
   type: text
   hidden: false
 pages:
-- _projects/spor-and-mssu-pei.md
-- _projects/sarv.md
-- _projects/training.md
 - _projects/sidr.md
+- _projects/training.md
+- _projects/sarv.md
+- _projects/spor-and-mssu-pei.md

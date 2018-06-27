@@ -3,7 +3,19 @@ new_page_extension: md
 auto_deploy: false
 admin_path: "/admin/"
 webhook_url: 
-collections: 
+collections:
+  _posts:
+    label: Posts
+  _projects:
+    label: Projects
+  _jobs:
+    label: Jobs
+  _people:
+    label: People
+  _publications:
+    label: Publications
+  '':
+    label: Pages
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: assets/images

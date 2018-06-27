@@ -48,13 +48,13 @@ fields:
   hidden: false
   config: {}
 pages:
-- _people/hailey-arsenault.md
-- _people/molly-fowler.md
-- _people/data-information-specialist.md
-- _people/mary-ann-macswain.md
-- _people/dr-nadeem-dada.md
-- _people/dr-robert-gilmour.md
-- _people/dr-micheal-mayne.md
-- _people/dr-christian-lacroix.md
-- _people/juergen-krause.md
 - _people/michelle-patterson.md
+- _people/juergen-krause.md
+- _people/dr-christian-lacroix.md
+- _people/dr-micheal-mayne.md
+- _people/dr-robert-gilmour.md
+- _people/dr-nadeem-dada.md
+- _people/mary-ann-macswain.md
+- _people/data-information-specialist.md
+- _people/molly-fowler.md
+- _people/hailey-arsenault.md
