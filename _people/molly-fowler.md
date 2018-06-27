@@ -12,6 +12,8 @@ published: false
 ---
 Molly joined the CHCR team in 2018 as an Administrative Assistant. 
 
-Molly recently graduated from the University of Prince Edward Island with her BA in Psychology. From New Brunswick originally, Molly's love for Charlottetown has made her an islander at heart. 
+Prior to joining the team, Molly worked in the insurance industry fulfilling various administrative roles, and in addition, has an extensive background in childcare.
 
-When not in the office, Molly can be found discovering and exploring the beautiful beaches of PEI and spending time at her cottage with family and friends.
+Molly recently graduated from the University of Prince Edward Island with her BA in Psychology. With a passion for research, qualitative especially, she enjoys working alongside the team and assisting them with research.
+
+ From New Brunswick originally, Molly's love for Charlottetown has made her an islander at heart. When not in the office, Molly can be found discovering and exploring the beautiful beaches of PEI and spending time at her cottage with family and friends.
