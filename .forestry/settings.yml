@@ -15,7 +15,7 @@ collections:
   _publications:
     label: Publications
   '':
-    label: Pages
+    label: Other Pages
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: assets/images
