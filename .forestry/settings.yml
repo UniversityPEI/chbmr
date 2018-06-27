@@ -22,6 +22,8 @@ collections:
     label: Publications
   '':
     label: Other Pages
+    templates:
+    - blahblah
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: assets/images
