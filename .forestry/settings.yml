@@ -8,10 +8,16 @@ collections:
     label: Posts
   _projects:
     label: Projects
+    templates:
+    - projects
   _jobs:
     label: Jobs
+    templates:
+    - jobs
   _people:
     label: People
+    templates:
+    - people
   _publications:
     label: Publications
   '':
