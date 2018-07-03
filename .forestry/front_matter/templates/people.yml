@@ -48,7 +48,7 @@ fields:
   hidden: false
   config: {}
 pages:
-- _people/molly-fowler.md
 - _people/hailey-arsenault.md
+- _people/molly-fowler.md
 - _people/mary-ann-macswain.md
 - _people/data-information-specialist.md
