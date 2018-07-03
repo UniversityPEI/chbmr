@@ -1,6 +1,6 @@
 ---
 title: Juergen Krause
-date: '2016-05-04 00:00:00'
+date: 2016-05-04 00:00:00 +0000
 layout: person
 sub-title: Director
 thumbnail: "/images/juergen-krause.jpg"
@@ -10,6 +10,10 @@ tags (staff, board, advisor, partner):
 - advisor
 email: jukrause@upei.ca
 linkedin: www.linkedin.com/pub/juergen-krause/a/b58/8b1
+tags:
+- board
+- staff
+- advisor
 ---
 Dr. Krause is the CHCR Director and Dean of the University of Prince Edward Island (UPEI) School of Business.
 
