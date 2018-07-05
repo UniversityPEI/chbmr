@@ -8,7 +8,7 @@ layout: text
 
 ## CBT4CBT (Computer Based Training for Cognitive Behavioural Therapy)
 
-Is a program that will introduce you to Cognitive Behavioural Therapy on your own terms. The program is available anytime and anywhere you use a computer, laptop, tablet, or smartphone with internet access. For more information about CBT4CBT and the studies that have proven its effectiveness, please visit [http://www.cbt4cbt.com/](http://www.cbt4cbt.com/ "http://www.cbt4cbt.com/")
+Is a program that will introduce you to Cognitive Behavioural Therapy on your own terms. The program is available anytime and anywhere you use a computer, laptop, tablet, or smartphone with internet access. For more information about CBT4CBT, please contact the CHCR at mmmacswain@upei.ca or call 902-620-5204.
 
 ## CBT can help develop skills such as:
 
