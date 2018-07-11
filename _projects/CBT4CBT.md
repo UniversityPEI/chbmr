@@ -11,8 +11,6 @@ tags:
 slug: CBT4CBT
 layout: text
 ---
-![]({{ site.baseurl }}/forestryio/images/2016-07-11%20CBT4CBT%20-%20quarter%20page%20ad-1.jpg)
-
 # CBT4CBT
 
 Computer-Based Training for Cognitive Behavioural Therapy (CBT4CBT) is an innovative online program that teaches the empirically validated treatment of cognitive behavioural therapy for individuals struggling with alcohol and drug abuse. Developed by Dr. Kathleen Carroll at the Yale School of Medicine, CBT4CBT has already been rigorously tested in clinical trials in the United States with excellent results. The collaboration between Dr. Carroll and the CHCR has brought CBT4CBT to Prince Edward Island for clinical trials within First Nation, rural, and remote populations.
