@@ -2,7 +2,7 @@
 title: Mary-Ann MacSwain
 date: 2016-11-08 00:00:00 +0000
 layout: person
-sub-title: Data Analyst
+sub-title: A/Research Manager
 thumbnail: assets/images/MacSwain-Mary-Ann-1.jpg
 tags:
 - staff
