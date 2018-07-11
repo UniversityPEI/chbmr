@@ -3,7 +3,6 @@ title: About Us
 layout: default
 sub-title: A multidisciplinary centre of experts who conduct, and are passionate about,
   patient-oriented research that can shape and impact healthcare and biotech industries.
-published: false
 ---
 # About Us
 
