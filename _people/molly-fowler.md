@@ -8,7 +8,6 @@ email: mfowler@upei.ca
 linkedin: ''
 title: Molly Fowler-Ross
 date: 2018-06-07 23:26:02 +0000
-published: false
 ---
 Molly joined the CHCR team in 2018 as an Administrative Assistant.
 
