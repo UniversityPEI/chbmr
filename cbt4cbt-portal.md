@@ -22,15 +22,15 @@ terms: |-
   * How to effectively say ‘No’ to offers of alcohol or drugs
   * How to be more aware of patterns of thinking and decision making that can lead to drug use
 
-  The CBT4CBT program is made up of short videos, interactive forms, and tutorials that teach decision making and coping skills to help overcome addictions. It was developed in the United States by Dr. Kathleen Carroll of the Yale School of Medicine, and it has already been shown to benefit those who have used it. Drs. Juergen Krause and Michelle Patterson have brought CBT4CBT to Canada for the first time to see if adding this therapy option to the current addiction treatment programs offered on PEI will help its individuals better manage their substance use. 
+  The CBT4CBT program is made up of short videos, interactive forms, and tutorials that teach decision making and coping skills to help overcome addictions. It was developed in the United States by Dr. Kathleen Carroll of the Yale School of Medicine, and it has already been shown to benefit those who have used it. Drs. Juergen Krause and Michelle Patterson have brought CBT4CBT to Canada for the first time to see if adding this therapy option to the current addiction treatment programs offered on PEI will help its individuals better manage their substance use.
 
   The information collected during the study will be used to test if CBT4CBT is a feasible therapy to offer on PEI in this manner. The hope is that the ideal method(s) for providing access to the CBT4CBT program will be identified through this project and thus we could best implement CBT4CBT on PEI and across Canada.
 
   **Why Am I Being Asked to Join this Study?**
 
-  You were identified by a healthcare provider or have self-identified as someone over the age of 18 who may benefit from CBT4CBT and expressed an interest in obtaining access to the program. You may take part in this study if you are or ever have been struggling with substance abuse, but NOT if you are feeling like you may do harm to yourself or to others, or require immediate hospitalization. You may choose to discuss in more detail with your pharmacist or healthcare provider. 
+  You were identified by a healthcare provider or have self-identified as someone over the age of 18 who may benefit from CBT4CBT and expressed an interest in obtaining access to the program. You may take part in this study if you are or ever have been struggling with substance abuse, but NOT if you are feeling like you may do harm to yourself or to others, or require immediate hospitalization. You may choose to discuss in more detail with your pharmacist or healthcare provider.
 
-  If you decide to take part in this research, you can stop at any time simply by not logging into the CBT4CBT program. There are no repercussions if you do decide to stop using the program and your use of the program will not affect your access to other treatments in any way. People who have used the CBT4CBT program before you have not had any negative effects and the studies have not shown any risk to users, but you may choose to stop using the CBT4CBT program at any point if you feel your health situation has changed. All data collected up to the date you stop using the program will remain in the study records, to be included in study related analyses. 
+  If you decide to take part in this research, you can stop at any time simply by not logging into the CBT4CBT program. There are no repercussions if you do decide to stop using the program and your use of the program will not affect your access to other treatments in any way. People who have used the CBT4CBT program before you have not had any negative effects and the studies have not shown any risk to users, but you may choose to stop using the CBT4CBT program at any point if you feel your health situation has changed. All data collected up to the date you stop using the program will remain in the study records, to be included in study related analyses.
 
   **What Happens in this Study?**
 
@@ -50,14 +50,14 @@ terms: |-
 
   For further information about the study of if you have any concerns about the ethical conduct of this study, you can contact:
 
-  * Dr. Michelle Patterson, Research Manager, CHCH ([mpatterson@upei.ca)](mailto:mpatterson@upei.ca)).............. 902-566-0334.
+  * Mary-Ann MacSwain, A/Research Manager, CHCR ([**_mmmacswain@upei.ca_**](mailto:mmmacswain@upei.ca)).............. 902-566-0334.
   * Dr. Juergen Krause, Principal Investigator, CHCR Director..................................... 902-566-0340.
-  * Dr. Kathryn Bigsby, Chair of the PEI Research Ethics Board….………………….. 902-569-0576. 
+  * Dr. Kathryn Bigsby, Chair of the PEI Research Ethics Board….………………….. 902-569-0576.
   * The UPEI Research Ethics Board at [reb@upei.ca](mailto:reb@upei.ca)..................................................... 902-620-5104.
 
   **Consent**
 
-  Please carefully review all the information in this consent form. 
+  Please carefully review all the information in this consent form.
 
   By checking the “I Agree” box below, you indicate that you understand the content of the consent form and that you agree to take place in this study.  If you do not consent please check the “I do not agree” box below.  If you do not agree with the consent, you will not be given access to the CBT4CBT program. If you have any questions about the consent form or the consent process, please contact one of the contacts listed above.
 sub_title: ''
