@@ -50,7 +50,7 @@ terms: |-
 
   For further information about the study of if you have any concerns about the ethical conduct of this study, you can contact:
 
-  * Mary-Ann MacSwain, A/Research Manager, CHCR ([**_mmmacswain@upei.ca_**](mailto:mmmacswain@upei.ca)).............. 902-566-0334.
+  * Mary-Ann MacSwain, A/Research Manager, CHCR ([**_mmmacswain@upei.ca_**](mailto:mmmacswain@upei.ca)).............. 902-620-5167.
   * Dr. Juergen Krause, Principal Investigator, CHCR Director..................................... 902-566-0340.
   * Dr. Kathryn Bigsby, Chair of the PEI Research Ethics Board….………………….. 902-569-0576.
   * The UPEI Research Ethics Board at [reb@upei.ca](mailto:reb@upei.ca)..................................................... 902-620-5104.
